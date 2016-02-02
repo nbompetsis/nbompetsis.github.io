@@ -10,7 +10,7 @@ title: Life looks like LRU
 email: nikolas_mmpompetsis@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my awesome personal site! It will be hosted by GitHub
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "nbompetsis.github.io" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: nick_bompetsis
 facebook_username: Nikolas Allazw Tautotita
