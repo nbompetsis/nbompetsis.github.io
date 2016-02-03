@@ -1,8 +1,6 @@
 language: ruby
 rvm:
-  - 2.3.0
-install: gem install jekyll
-
-env:
-  global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+- 2.3.0
+install: gem install jekyll bundle
+script: jekyll build
+# script: JEKYLL_ENV=jekyll serve --baseurl "" --detach
