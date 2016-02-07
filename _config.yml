@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Life looks like LRU
+title: Nikolas Bompetsis
 email: nikolas_mmpompetsis@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my awesome personal site! It will be hosted by GitHub
+  Nikolas Bompetsis Personal site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: nick_bompetsis
 facebook_username: Nikolas Allazw Tautotita
 github_username: nbompetsis
-
+footer_description: Nikolas' Personal site, created by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
 # Build settings
 markdown: kramdown
