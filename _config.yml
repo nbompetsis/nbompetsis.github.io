@@ -7,7 +7,7 @@
 
 # Site settings
 title: Nikolas Bompetsis
-email: nikolas_mmpompetsis@gmail.com
+email: nikolas_mpompetsis@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Nikolas Bompetsis Personal site
 baseurl: "" # the subpath of your site, e.g. /blog
