@@ -15,6 +15,7 @@ url: "" # the base hostname & protocol for your site
 twitter_username: nick_bompetsis
 facebook_username: Nikolas Allazw Tautotita
 github_username: nbompetsis
+linkedin_username: nbompetsis
 footer_description: Nikolas' Personal site, created by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
 # Build settings
 markdown: kramdown
