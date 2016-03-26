@@ -43,9 +43,17 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-    max-width: 100%;
     vertical-align: middle;
 }
+
+img.home-img{
+  display: block;
+  margin: 0 auto;
+  border-radius: 20%;
+  width: 280px;
+  height: 320px;
+}
+
 
 
 
