@@ -4,18 +4,6 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-### *Personal Information*
-
-- Full Name:
-**Nikolas Bompetsis**
-
-- Address:
-**Available upon request**
-
-- Telephone:
-**+30 697 82 26 064**
-
-
 ### *Work Experience*
 
 #### Current
