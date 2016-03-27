@@ -51,7 +51,7 @@ permalink: /cv/
 **Informatics and Telecommunications**
 
 - Bachelor Thesis Title:
-**Semantic profiling mechanism based in ontologies**
+**Semantic profiling mechanism based on ontologies**
 
 
 [Full CV](../assest/NikolasBompetsisCV.pdf)
