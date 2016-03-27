@@ -1,7 +1,69 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /cv/
 ---
 
-[Full CV](https://drive.google.com/file/d/0B7-w7ZRr8wcdc19YandCX0RUXzA/view?usp=sharing)
+### *Personal Information*
+
+- Full Name:
+**Nikolas Bompetsis**
+
+- Address:
+**Available upon request**
+
+- Telephone:
+**+30 697 82 26 064**
+
+
+### *Work Experience*
+
+#### Current
+
+- Employer:
+**Hellenic Telecommunications Organization (OTE)**
+
+- Occupation:
+**OpenStack Software Engineer**
+
+- Date:
+**March 2016 to present**
+
+#### Previous
+
+- Employer:
+**University of Athens, Department of Informatics**
+
+- Occupation:
+**Research & Development**
+
+- Date:
+**March 2013 to February 2016**
+
+
+### *Education*
+
+#### M.Sc
+
+- Title:
+**Communication Systems and Networks**
+
+- Institute:
+**National and Kapodistrian University of Athens**
+
+- Department:
+**Informatics and Telecommunications**
+
+#### B.Sc
+
+- Institute:
+**National and Kapodistrian University of Athens**
+
+- Department:
+**Informatics and Telecommunications**
+
+- Bachelor Thesis Title:
+**Semantic profiling mechanism based in ontologies**
+
+
+[Full CV](../assest/NikolasBompetsisCV.pdf)
