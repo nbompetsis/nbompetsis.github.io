@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-#### Short bio
+#### **Short bio**
 
 
 Mr. Nikolaos Bompetsis obtained his bachelor degree from the National & Kapodistrian University of Athens, in the Department of Informatics and Telecommunications. Also he is pursuing M.Sc degrees in the Communication Systems and Networks programme. Currently he is working on Hellenic Telecommunications Organisation as OpenStack Engineer. During his research activities, he has participated in two FP7/H2020 projects, i.e., SPECIFI, METIS, Livecity and Univerself.
@@ -18,7 +18,7 @@ His main fields of interest are Software Development (Python, C++, Java etc.), S
 
 <br>
 
-#### [Full CV](../assest/NikolasBompetsisCV.pdf)
+#### **[Full CV](../assest/NikolasBompetsisCV.pdf)**
 
 <!-- #### *Work Experience*
 
