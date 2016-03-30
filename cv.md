@@ -17,7 +17,7 @@ His main fields of interest are Software Development (Python, C++, Java etc.), S
 {: style="color:black; text-align: justify;"}
 
 <br>
-git
+
 #### [Full CV](../assest/NikolasBompetsisCV.pdf)
 
 <!-- #### *Work Experience*
