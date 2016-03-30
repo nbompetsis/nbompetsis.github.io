@@ -7,7 +7,7 @@ permalink: /cv/
 #### Short bio
 
 
-Mr. Nikolaos Bompetsis obtained his bachelor degree from the National & Kapodistrian University of Athens, in the Department of Informatics and Telecommunications. Currently, he is pursuing M.Sc degrees in the Communication Systems and Networks programme. Actually he is working on Hellenic Telecommunications Organisation as OpenStack Engineer. In the past, he was member of SCAN group. During his research activities, he has participated in two FP7 projects, i.e., SPECIFI, METIS, Livecity and Univerself.
+Mr. Nikolaos Bompetsis obtained his bachelor degree from the National & Kapodistrian University of Athens, in the Department of Informatics and Telecommunications. Also he is pursuing M.Sc degrees in the Communication Systems and Networks programme. Currently he is working on Hellenic Telecommunications Organisation as OpenStack Engineer. During his research activities, he has participated in two FP7/H2020 projects, i.e., SPECIFI, METIS, Livecity and Univerself.
 {: style="color:black; text-align: justify;"}
 
 Besides that, he was in charge of supporting two undergraduate courses, i.e., “Software Development in Networks and Telecommunications” and “Network Management”.
@@ -17,7 +17,7 @@ His main fields of interest are Software Development (Python, C++, Java etc.), S
 {: style="color:black; text-align: justify;"}
 
 <br>
-
+git
 #### [Full CV](../assest/NikolasBompetsisCV.pdf)
 
 <!-- #### *Work Experience*
