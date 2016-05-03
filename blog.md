@@ -14,5 +14,13 @@ I named my personal Blog "**_Life looks like LRU_**" because the things and tren
 <br />
 
 ### Post Categories
-1. Computer Science Tutorials
+* Computer Science Tutorials
+<ul>
+  {% for post in site.posts %}
+    <li style="margin-left: 2em;">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 {: style="color:black; text-align: justify;"}
