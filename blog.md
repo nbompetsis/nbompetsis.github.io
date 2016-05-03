@@ -14,5 +14,5 @@ I named my personal Blog "**_Life looks like LRU_**" because the things and tren
 <br />
 
 ### Post Categories
-1. Computer Science
+1. Computer Science Tutorials
 {: style="color:black; text-align: justify;"}
