@@ -10,4 +10,4 @@ If you spot a bug, or want to improve the code, you can do the following:
 2. Fork the project, make changes, and submit a pull request
 
 ## License
-Mit
+[MIT](https://opensource.org/licenses/MIT)
