@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+id: blog
 ---
 
 # **Life looks like LRU**

@@ -1,21 +1,28 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
+
 title: Nikolas Bompetsis
+favicon: "/assest/images/favicon.png"
+
 email: nikolas_mpompetsis@gmail.com
+
 description: > # this means to ignore newlines until "baseurl:"
   Nikolas Bompetsis Personal site
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+
+pages_list:
+  About: 'about'
+  Blog: 'latest-post'
+  Contact: 'contact'
+
+baseurl: ""
+url: "https://nbompetsis.github.io"
+force-https: True
+
 twitter_username: nick_bompetsis
 facebook_username: Nikolas Allazw Tautotita
 github_username: nbompetsis
 linkedin_username: nbompetsis
+
 footer_description: Nikolas' Personal site, created by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
+
 # Build settings
 markdown: kramdown
