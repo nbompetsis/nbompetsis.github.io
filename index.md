@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <img class="home-img" src="./assest/nb1.png" alt="nb" />
+
+    <br>
+    <h1 class="page-heading">Software Engineer</h1>
+    <h1 class="page-heading">Research by day, open-source by night.</h1>
+
+</div>
