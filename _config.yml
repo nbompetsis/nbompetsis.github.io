@@ -17,8 +17,7 @@ baseurl: ""
 url: "https://nbompetsis.github.io"
 force-https: True
 
-twitter_username: nick_bompetsis
-facebook_username: Nikolas Allazw Tautotita
+twitter_username: nikosbob21
 github_username: nbompetsis
 linkedin_username: nbompetsis
 
@@ -26,11 +25,3 @@ footer_description: Nikolas' Personal site, created by <a href="http://jekyllrb.
 
 # Build settings
 markdown: kramdown
-
-# Social
-social_title: "github"
-social_url: "https://github.com/nbompetsis"
-  # - title: "linkedin"
-  #   url: "https://www.linkedin.com/in/nikolas-bompetsis-b883b869/"
-  # - title: "twitter"
-  #   url: "https://twitter.com/nikosbob21"

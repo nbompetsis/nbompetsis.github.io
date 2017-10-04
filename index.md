@@ -2,12 +2,18 @@
 layout: default
 ---
 
-<div class="home">
+<div class="main-content">
+        <h1>./nikolas</h1>
+        <div class="col-4">
+            <img class="home-img" src="./assest/nb1.png" alt="nb" />
+        </div>
+        <div class="col-6">
+            <br>
+            <h2><b>Software Engineer</b></h2>
+            <br>
+            <h3>Research by <b>day</b>, open-source by <b>night.</b></h3>
 
-    <img class="home-img" src="./assest/nb1.png" alt="nb" />
-
-    <br>
-    <h1 class="page-heading">Software Engineer</h1>
-    <h1 class="page-heading">Research by day, open-source by night.</h1>
-
+        </div>
+        <br><br><br><br><br>
+        <br><br><br><br><br>
 </div>
