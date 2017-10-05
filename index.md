@@ -5,7 +5,7 @@ layout: default
 <div class="main-content">
         <h1>./nikolas</h1>
         <div class="col-4">
-            <img class="home-img" src="./assest/nb1.png" alt="nb" />
+            <img class="home-img" src="./assest/images/nb1.png" alt="nb" />
         </div>
         <div class="col-6">
             <br>
