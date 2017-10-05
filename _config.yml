@@ -1,18 +1,8 @@
 # Site settings
 
 title: Nikolas Bompetsis
-favicon: "/assest/images/favicon.png"
 lang: en
-email: nikolas_mpompetsis@gmail.com
-
-description: > # this means to ignore newlines until "baseurl:"
-  Nikolas Bompetsis Personal site
-
-pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Contact: 'contact'
-
+favicon: "/assest/images/favicon.png"
 baseurl: ""
 url: "https://nbompetsis.github.io"
 force-https: True
@@ -20,8 +10,11 @@ force-https: True
 twitter_username: nikosbob21
 github_username: nbompetsis
 linkedin_username: nbompetsis
-
-footer_description: Nikolas' Personal site, created by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
+email: nikolas_mpompetsis@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Nikolas Bompetsis Personal site
+footer_description: Check <a href="http://jekyllrb.com" target="_blank">Jekyll</a> awesome Web framework.
+moto: Supporting OpenSource & Free World.
 
 # Build settings
 markdown: kramdown
