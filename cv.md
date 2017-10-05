@@ -12,7 +12,7 @@ Nikolas Bompetsis is pursuing M.Sc degrees in the [Computer Systems specializati
 His main fields of interest are Software Development (Java, Python, Ruby, Scala,  etc.), Systems, System Security, Distributed Systems and Cloud Computing
 {: style="color:black; text-align: justify; font-size: 1.17em; margin-bottom: 15px; font-weight: 400;"}
 
-Currently he is working for [Agile Actors](https://www.agileactors.com/) as Full Stack Engineer.
+Currently he is working for [Agile Actors](https://www.agileactors.com/){:target="_blank"} as Full Stack Engineer.
 {: style="color:black; text-align: justify; font-size: 1.17em; margin-bottom: 15px; font-weight: 400;"}
 <br>
 
