@@ -14,7 +14,7 @@ layout: default
     <h3>Research by <b>day</b>, open-source by <b>night.</b></h3>
     <br>
     <h3><b>Contact</b></h3>
-    e-mail: <b>nikolas.mpompetsis</b> at <b>gmail</b> dot <b>com</b>
+    e-mail:<h4 oncopy="return false" oncut="return false" onpaste="return false"> <p title="Don't copy/paste, it won't work!"> <b>nikolas.mpompetsis</b> at <b>gmail</b> dot <b>com</b></p></h4>
     </div>
     <br>
     <br><br><br><br><br><br>
