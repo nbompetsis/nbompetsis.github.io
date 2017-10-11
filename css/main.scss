@@ -44,7 +44,11 @@ $on-laptop:        800px;
         @content;
        .page-link {
            color: $github-header;
-        }   
+        }
+
+        h2, h3, .popup{
+            font-size: 90%
+        }
     }
 }
 

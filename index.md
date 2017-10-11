@@ -14,11 +14,9 @@ layout: default
         <h3>Research by <b>day</b>, open-source by <b>night.</b></h3>
         <br>
         <h3><b>Email contact</b></h3>
-        <div class="popup" onclick="popupFun()" onmouseover="popupFun()" oncopy="return false" oncut="return false">
+        <div class="popup" onclick="popupFun()" oncopy="return false" oncut="return false">
             <b>nikolas.mpompetsis</b> at <b>gmail</b> dot <b>com</b>
-            <span class="popuptext" id="myPopup">Don't copy my email. It's secret ;)</span>
+            <span class="popuptext" id="myPopup">Don't copy my email. It won't work!</span>
         </div>
     </div>
-    <br><br><br><br><br><br>
-    <br><br><br><br><br><br>
 </div>
