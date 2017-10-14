@@ -14,7 +14,7 @@ layout: default
         <br>
         <h3 class="awesomeh3"><b>Reach me via email</b></h3>
         <div class="popup" onclick="popupFun()" oncopy="return false" oncut="return false">
-            <b>nikolas.mpompetsis</b> at <b>gmail</b> dot <b>com</b>
+            <h4><b>nikolas.mpompetsis</b> at <b>gmail</b> dot <b>com</b></h4>
             <span class="popuptext" id="myPopup">Don't copy my email. It won't work!</span>
         </div>
     </div>
