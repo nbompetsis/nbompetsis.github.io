@@ -30,15 +30,13 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+$width-col-60:     60%;
+$width-col-40:     40%;
+$col-60-padding:   0.5rem;
+$col-60-padding:   0.5rem;
+$main-con-border:  2px;
+$main-con-padding: 2rem;
 
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
@@ -52,9 +50,6 @@ $on-laptop:        800px;
     }
 }
 
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",
