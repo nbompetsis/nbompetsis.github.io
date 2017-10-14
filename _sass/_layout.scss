@@ -2,24 +2,24 @@
  * ./me page basic divs
  */
 .main-content {
-    border-radius: 2px;
+    border-radius: $main-con-border;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
     background: rgba(255, 255, 255, 0.28);
-    padding: 2rem;
+    padding: $main-con-padding;
     bottom: 0;
     box-sizing: border-box;
     overflow: auto;  // fucking awesome!!!!!
 }
 
 .col-4 {
-    width: 40%;
+    width: $width-col-40;
     float: left;
 }
 
 .col-6 {
-    width: 60%;
+    width: $width-col-60;
     float: left;
-    padding-left: 0.5rem;
+    padding-left: $col-60-padding;
     box-sizing: border-box;
 }
 
